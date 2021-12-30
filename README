@@ -1,8 +1,7 @@
-# Requirements:
-- Python 2.x
-- Python 3 support in progress
+Requirements:
+Linux environment
 
-Usage: pywallet.py [options]
+Usage: ./pywallet-linux-cli
 
 Options:
   --version             show program's version number and exit
@@ -27,16 +26,3 @@ Options:
   --web                 run pywallet web interface
   --port=PORT           port of web interface (defaults to 8989)
 
-Dependencies:
-
-Debian-based Linux:
- aptitude install build-essential python-dev python-bsddb3
-
-Mac OS X:
- 1. Install MacPorts from http://www.macports.org/
- 2. sudo port install python27 py27-pip py-bsddb python_select
- 3. sudo port select --set python python27
- 4. sudo easy_install ecdsa
-
-Windows: 
- Just install Python 2.7
