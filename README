@@ -1,5 +1,5 @@
 # pywallet-linux-cli
-Validate mnemonic seed phrase (12-24 words)
+Bitcoin wallet importer/exporter 
 
 Usage: pywallet-linux-cli [options]
 
