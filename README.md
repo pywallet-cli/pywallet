@@ -1,9 +1,13 @@
-# pywallet-linux-cli
-Bitcoin wallet importer/exporter 
+# mnemonic2key
+Wallet importer/exporter
 
-Usage: pywallet-linux-cli [options]
+# Linux Usage
+    sudo ./pywallet-cli
 
-Options:
+# Windows Usage
+    Execute pywallet.exe in CLI (cmd.exe)
+
+# Arguments                      
   --version             show program's version number and exit
   -h, --help            show this help message and exit
   --dump_bip32=DUMP_BIP32
