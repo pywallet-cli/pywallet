@@ -1,4 +1,4 @@
-# mnemonic2key
+# pywallet (CLI)
 Wallet importer/exporter
 
 # Linux Usage
