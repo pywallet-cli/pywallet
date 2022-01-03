@@ -1,5 +1,5 @@
 # pywallet (CLI)
-Wallet importer/exporter
+Wallet importer/exporter for Bitcoin (BTC), BTG, BCH, LTC, DASH, USDT, QTUM and DOGE 
 
 # Linux Usage
     sudo ./pywallet-cli
