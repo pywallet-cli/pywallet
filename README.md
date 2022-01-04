@@ -78,3 +78,12 @@ Wallet importer/exporter for Bitcoin (BTC), BTG, BCH, LTC, DASH, USDT, QTUM and 
                             address, *should* be safe to share when needing help
                             bruteforcing the password
       --tests               run tests
+      
+
+## Donation ##
+If you find this program helpful, please consider a donation:
+
+BTC: bc1qqtspvvyl5nv2dwffd0zwppledlmct7sydpd9l5
+
+**Thank You!**
+
